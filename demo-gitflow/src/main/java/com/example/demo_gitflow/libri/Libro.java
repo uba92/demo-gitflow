@@ -18,4 +18,5 @@ public class Libro {
     private String titolo;
     private String autore;
     private int annoPubblicazione;
+    private String genere;
 }
